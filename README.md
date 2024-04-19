@@ -1,1 +1,1 @@
-#Project 2: paragraph
+#Project 2: paragraph and submitted repository link.
